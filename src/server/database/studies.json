@@ -1,0 +1,93 @@
+[
+    {
+      "Filename": "file1.jpg",
+      "Metadata": {
+        "ViewPosition": "AP",
+        "PatientName": "Anonymous Patient",
+        "PatientAge": "63",
+        "SOPInstanceUID": "5b873156-d721-4f29-9990-15ca0193661c",
+        "PatientID": "12094",
+        "AccessionNumber": "B-1535071081712"
+      }
+    },
+    {
+      "Filename": "image2.jpg",
+      "Metadata": {
+        "ViewPosition": "AP",
+        "PatientName": "Anonymous Patient",
+        "PatientAge": "55",
+        "SOPInstanceUID": "91745057-54ba-4ecc-8f89-14cd97bf6c6b",
+        "PatientID": "21626",
+        "AccessionNumber": "B-1535071663313"
+      }
+    },
+    {
+      "Filename": "image3.jpg",
+      "Metadata": {
+        "ViewPosition": "PA",
+        "PatientName": "Anonymous Patient",
+        "PatientAge": "17",
+        "SOPInstanceUID": "7de4bc9c-ae38-42ee-95de-d65ed6c38916",
+        "PatientID": "22720",
+        "AccessionNumber": "B-1535137935756"
+      }
+    },
+    {
+      "Filename": "file4.jpg",
+      "Metadata": {
+        "ViewPosition": "AP",
+        "PatientName": "Anonymous Patient",
+        "PatientAge": "58",
+        "SOPInstanceUID": "a5c71045-2f8a-4177-a9b3-6c0358f72d0c",
+        "PatientID": "10007",
+        "AccessionNumber": "B-1535076261283"
+      }
+    },
+
+
+  {
+    "Filename": "file1.jpg",
+    "Metadata": {
+      "ViewPosition": "AP",
+      "PatientName": "Anonymous Patient",
+      "PatientAge": "63",
+      "SOPInstanceUID": "5b873156-d721-4f29-9990-1",
+      "PatientID": "12094",
+      "AccessionNumber": "B-1535071081712"
+    }
+  },
+  {
+    "Filename": "image2.jpg",
+    "Metadata": {
+      "ViewPosition": "AP",
+      "PatientName": "Anonymous Patient",
+      "PatientAge": "55",
+      "SOPInstanceUID": "91745057-54ba-4ecc-8f89-2",
+      "PatientID": "21626",
+      "AccessionNumber": "B-1535071663313"
+    }
+  },
+  {
+    "Filename": "image3.jpg",
+    "Metadata": {
+      "ViewPosition": "PA",
+      "PatientName": "Anonymous Patient",
+      "PatientAge": "17",
+      "SOPInstanceUID": "7de4bc9c-ae38-42ee-95de-3",
+      "PatientID": "22720",
+      "AccessionNumber": "B-1535137935756"
+    }
+  },
+  {
+    "Filename": "file4.jpg",
+    "Metadata": {
+      "ViewPosition": "AP",
+      "PatientName": "Anonymous Patient",
+      "PatientAge": "58",
+      "SOPInstanceUID": "a5c71045-2f8a-4177-a9b3-4",
+      "PatientID": "10007",
+      "AccessionNumber": "B-1535076261283"
+    }
+  }
+  ]
+  
